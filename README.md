@@ -1,6 +1,6 @@
-<img src="https://aiqynsoz.kz/assets/images/png/logo.png" alt="AIQYN SÖZ Logo" width="200"/>
-
 # AIQYN SOZ — Интерактивная платформа для изучения казахского языка
+
+<img src="https://aiqynsoz.kz/assets/images/png/logo.png" alt="AIQYN SÖZ Logo" width="200"/>
 
 ## О проекте
 

@@ -1,8 +1,4 @@
-# AIQYN SOZ — Интерактивная платформа для изучения казахского языка
-
-<p align="center">
-  <img src="https://aiqynsoz.kz/assets/images/png/logo.png" alt="AIQYN SÖZ Logo" width="150"/>
-</p>
+#   <img src="https://aiqynsoz.kz/assets/images/png/logo.png" alt="AIQYN SÖZ Logo" width="150"/>AIQYN SOZ — Интерактивная платформа для изучения казахского языка
 
 ## О проекте
 

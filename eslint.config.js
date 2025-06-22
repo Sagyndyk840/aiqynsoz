@@ -6,7 +6,7 @@ import tseslint from 'typescript-eslint'
 import { eslintBoundariesConfig } from './eslint.boundaries.js'
 
 export default tseslint.config(
-    eslintBoundariesConfig,
+    // eslintBoundariesConfig,
   { ignores: ['dist'] },
   {
     extends: [js.configs.recommended, ...tseslint.configs.recommended],

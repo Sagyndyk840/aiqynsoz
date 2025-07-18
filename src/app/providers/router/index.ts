@@ -1,5 +1,5 @@
-import routerConfig from 'config/config'
+import { routeConfig } from '@app/providers/router/config'
 
 export {
-  routerConfig
+  routeConfig,
 }

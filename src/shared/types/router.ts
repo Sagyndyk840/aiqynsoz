@@ -1,5 +1,5 @@
-import type { RouteProps } from 'react-router-dom'
+import type { RouteObject } from 'react-router-dom'
 
-export type AppRoutesProps = RouteProps & {
+export type AppRoutesProps = RouteObject & {
   auth?: boolean,
 }

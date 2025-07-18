@@ -1,5 +1,8 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import '@app/styles/index.css'
+import { RouterProvider } from 'react-router-dom'
+import { router } from '@app/App'
 
 const container = document.getElementById('root')
 
@@ -7,6 +10,6 @@ const root = createRoot(container!)
 
 root.render(
   <StrictMode>
-    <h1>Hello</h1>
+    <RouterProvider router={router} />
   </StrictMode>,
 )

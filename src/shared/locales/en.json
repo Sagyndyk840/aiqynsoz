@@ -1,0 +1,355 @@
+{
+  "common": {
+    "welcome": "Welcome to Aiqyn Soz!",
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "lessons": "Lessons",
+    "learn": "Learn",
+    "wordOfDay": "Word of the Day",
+    "proficiencyTest": "Proficiency Test",
+    "about": "About Us",
+    "proficiencyLevel": "Proficiency Level"
+
+  },
+
+  "about": {
+    "letsGetAcquainted": "Let's Get Acquainted!",
+    "heroText": "We are committed to making Kazakh language learning accessible, engaging, and effective for learners at all levels.",
+    "infoText": "With a shared passion for languages and learning, our team has put together an approach to Kazakh that combines interactive lessons with everyday practice.",
+    "meetTeam": "Meet Our Team",
+    "teamDescription": "Our team is a group of creative and dedicated individuals with technical skills, striving to find simple and effective solutions for language learning.",
+    "faqs": "FAQs",
+    "faq1": {
+      "question": "How does the leveling system work?",
+      "answer": "On our platform, your initial knowledge level is determined through a test, after which you are assigned a beginner, intermediate, or advanced level. You can increase your level by completing lessons and taking assessments."
+    },
+    "faq2": {
+      "question": "How much time should I spend learning daily?",
+      "answer": "We recommend 15-30 minutes of daily practice for optimal results. Consistency is more important than duration."
+    },
+    "faq3": {
+      "question": "Do you offer personalized feedback?",
+      "answer": "Yes, our AI-based system offers helpful feedback on your pronunciation and basic language usage to help you improve quickly."
+    },
+    "faq4": {
+      "question": "What happens if I don’t pass an assessment?",
+      "answer": "If you don’t pass an assessment, don’t worry! You can review the materials again, practice more, and retake the assessment until you feel confident."
+    },
+    "faq5": {
+      "question": "Is the platform suitable for self-study?",
+      "answer": "Yes, it’s designed for independent learners and provides helpful support throughout the learning process."
+    },
+    "faq6": {
+      "question": "What kinds of lessons are included?",
+      "answer": "You’ll find reading materials, videos for listening practice, pronunciation support, and interactive quizzes to reinforce your learning."
+    },
+    "contactFormTitle": "If you have any questions please leave a comment",
+    "formNotice": "Your email address will not be published. Required fields are marked *",
+    "formName": "Name*",
+    "formEmail": "Email*",
+    "formComment": "Comment",
+    "formSaveInfo": "Save my name, email in this browser for the next time I comment",
+    "formSubmit": "Send"
+  },
+
+  "dashboard": {
+    "restart": "Restart",
+    "welcome": "Welcome",
+    "welcomeMessage": "Ready to continue your Kazakh language journey?",
+    "letsGo": "Let's Go",
+    "totalPoints": "Total Points",
+    "lessonsCompleted": "Lessons Completed",
+    "streakDays": "Streak Days",
+    "retakeTest": "Retake Test",
+    "ongoingCourses": "Ongoing Courses",
+    "noOngoingCourses": "No ongoing courses. Start learning!",
+    "continue": "Continue",
+    "leaderboard": "Leaderboard",
+    "viewAll": "View All",
+    "leaderboardData": "Leaderboard data will appear here as you progress.",
+    "noLeaderboardData": "Leaderboard data will appear here as you progress.",
+    "achievements": "Achievements",
+    "noAchievements": "No achievements yet. Keep learning to earn badges!",
+    "totalAchievements": "Total Achievements",
+    "availableAchievements": "Available to Earn",
+    "completionRate": "Completion Rate",
+    "earnedOn": "Earned on",
+    "rank": "Rank",
+    "user": "User",
+    "points": "Points",
+    "globalRanking": "Global Ranking",
+    "weeklyRanking": "Weekly Ranking",
+    "yourPosition": "Your Position",
+    "settings": "Settings",
+    "profileSettings": "Profile Settings",
+    "changePassword": "Change Password",
+    "notificationSettings": "Notification Settings",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "changePhoto": "Change Photo",
+    "profilePicture": "Profile Picture",
+    "language": "Language",
+    "emailUpdates": "Email Updates",
+    "lessonReminders": "Lesson Reminders",
+    "newFeatures": "New Features Announcements",
+    "progressReports": "Weekly Progress Reports"
+  },
+
+  "auth": {
+    "loginPrompt": "Login to your account",
+    "registerPrompt": "Create a new account",
+    "resetPrompt": "Reset your password",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "resetSent": "Password reset instructions have been sent to your email",
+    "usernameRequired": "Пайдаланушы аты толтырылуы керек",
+    "emailRequired": "Email толтырылуы керек",
+    "invalidEmail": "Email форматы қате",
+    "passwordRequired": "Құпия сөз толтырылуы керек",
+    "passwordMismatch": "Құпия сөздер сәйкес емес",
+    "passwordLength": "Құпия сөз кемінде 6 таңбадан тұруы керек",
+    "registerSuccess": "Registration successful! Please login",
+    "rememberMe": "Remember me",
+    "title": "Let’s master Kazakh together!",
+    "subtitle": "Log in to keep improving every day.",
+    "emailForm": "Enter your email address",
+    "passForm": "Enter your password",
+    "userForm": "Choose a username",
+    "confirmForm": "Confirm your password"
+  },
+
+  "footer": {
+    "tagline": "Your online helper in learning the Kazakh language",
+    "resources": "Resources",
+    "library": "Library",
+    "contact": "Contact",
+    "checkYourself": "Check Yourself",
+    "read": "Read",
+    "watch": "Watch",
+    "lessons": "Lessons",
+    "wordOfTheDay": "Word of the Day",
+    "location": "Location",
+    "address": "Abylai Khan Avenue 1/1",
+    "email": "Email",
+    "phone": "Phone",
+    "allRightsReserved": "All rights reserved"
+  },
+  "home": {
+    "headline": "Start learning Kazakh language with us!",
+    "startLearning": "Start learning",
+    "why": "Why exactly us?",
+    "whyDescription": "We believe that language is more than just words — it's a bridge to culture, identity, and connection. Whether you're learning Kazakh to explore your heritage, travel, or open new doors, we’re here to support you every step of the way.",
+    "learnMore": "Learn more",
+    "popularCourses": "Our popular courses",
+    "coursesDescription": "Discover trending Kazakh lessons to boost your skills and reach the next level.",
+    "proficiencyCardText": "Take the proficiency test and find out your level of Kazakh language learning",
+    "watchReadCardText": "Watch movies and read books in Kazakh with us",
+    "chatbotCardText": "Correct your pronunciation with our AI-chatbot and speak like a natives",
+    "test": "test",
+    "more": "more",
+    "subscribeHeading": "Curious to learn Kazakh? Log in to get the latest updates and start learning",
+    "enterEmail": "Enter your email"
+  },
+  "profTest": {
+    "questions": {
+      "1": {
+        "option_a": "Hello, how are you?",
+        "option_b": "Good bye, see you later",
+        "option_c": "What is your name?",
+        "option_d": "I don't understand"
+      },
+      "2": {
+        "option_a": "My name is Aigul.",
+        "option_b": "I am hungry.",
+        "option_c": "I am from Kazakhstan.",
+        "option_d": "It is cold today."
+      },
+      "3": {
+        "option_a": "Where are you going?",
+        "option_b": "Where did you go?",
+        "option_c": "Where have you been?",
+        "option_d": "Where do you live?"
+      },
+      "4": {
+        "option_a": "I am reading a book in the library.",
+        "option_b": "I read a book in the library.",
+        "option_c": "I will read a book in the library.",
+        "option_d": "I have read a book in the library."
+      },
+      "6": {
+        "option_a": "What is your name? (formal)",
+        "option_b": "What is your name? (informal)",
+        "option_c": "How old are you?",
+        "option_d": "Where are you from?"
+      },
+      "13": {
+        "option_a": "Do you like the weather today?",
+        "option_b": "What will the weather be like tomorrow?",
+        "option_c": "How was the weather yesterday?",
+        "option_d": "Is it raining now?"
+      },
+      "17": {
+        "option_a": "Do you have a watch?",
+        "option_b": "How many hours?",
+        "option_c": "It's four o'clock.",
+        "option_d": "Is it late?"
+      }
+    },
+    "headline": "Proficiency Test",
+    "instructions": "Instructions",
+    "introText": "This test will assess your proficiency level in Kazakh. You will answer 25 randomly selected questions.",
+    "start": "START",
+    "wellDone": "Well done!",
+    "previous": "PREVIOUS QUESTION",
+    "next": "NEXT QUESTION",
+    "finish": "FINISH",
+    "result": "Result",
+    "score": "Your score:",
+    "levelDescription": "This is your approximate level for Kazakh grammar. You should start studying the",
+    "link": "grammar lesson for",
+    "questions": "Questions",
+    "question": "Question",
+    "errorLoadingQuestions": "Unable to load proficiency test questions",
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced"
+    }
+  },
+  "profile": {
+    "dashboard": "Dashboard",
+    "achievements": "Achievements",
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+
+  "wordDay": {
+    "title": "Word of the day",
+    "translations": "Translations:",
+    "example": "Example:",
+    "russian": "Russian:",
+    "english": "English:",
+    "kazakh": "Kazakh:",
+    "fetchError": "Error loading word of the day. Please try again later."
+  },
+  "lessons": {
+    "allLevels": "All levels",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "level": "level",
+    "wordNum": "words",
+    "toQuiz": "Practice quiz",
+    "checkAnswers": "Check answer",
+    "skip": "Skip",
+    "repeat": "Repeat",
+    "completed": "Completed",
+    "perfectScore": "Perfect! You did a great job!",
+    "goodScore": "Good! Keep it up!",
+    "keepPracticing": "Keep practicing! You're making progress.",
+    "dailyScoreEarned": "Earned score",
+    "noQuestions": "No questions available for this lesson."
+  },
+  "readPage": {
+    "subtitle": "Build new skills with new trendy courses and shine for the next future career."
+  },
+  "learnPage": {
+    "subtitle": "Choose your own activities and exercises",
+    "video": "Video",
+    "chatbot": "AI Chatbot",
+    "pronunciation": "Pronunciation practice",
+    "readDescription": "We are committed to providing engaging reading materials to help you learn Kazakh through authentic texts, stories, and articles.",
+    "videoDescription": "Learn through our curated video content with interactive subtitles and cultural insights to improve your listening comprehension.",
+    "chatbotDescription": "Practice your conversational skills with our AI-powered chatbot that provides instant feedback and personalized language practice.",
+    "pronunciationDescription": "Perfect your pronunciation with our interactive exercises to sound more like a native speaker."
+  },
+  "readPage": {
+    "headline": "Read together",
+    "subtitle": "Build new skills with new trendy courses and shine for the next future career.",
+    "kazContent": "In Kazakh: ",
+    "langContent": "In English: "
+  },
+  "videoPage": {
+    "headline": "Watch together"
+  },
+  "chatbot": {
+    "you": "Y",
+    "bot": "B",
+    "input": "Type here",
+    "welcome": "Send a 'Hi' message to start your chat journey with our AI assistant",
+    "howToUse": "This AI chatbot is designed to help you practice your Kazakh language skills. You can ask it questions about Kazakh grammar, request translations, or even have basic conversations in Kazakh. The chatbot will respond with helpful information and correct your language use when necessary. Try asking questions like \"How do you say hello in Kazakh?\" or \"Can you explain Kazakh verb conjugation?\"",
+    "whatCanItDo": "What can the AI chatbot do?",
+    "capabilities": "The AI chatbot can: 1) Translate common phrases between English and Kazakh, 2) Answer questions about Kazakh grammar, vocabulary, and culture, 3) Help you practice basic conversations, 4) Provide pronunciation tips for difficult Kazakh sounds, and 5) Suggest learning resources tailored to your needs. While it's not a replacement for a human teacher, it's a valuable tool for supplementing your learning."
+  },
+  "pronunciation": {
+    "howTo": "How to use it?"
+  },
+  "pronunciation": {
+    "practice": "Pronunciation Practice",
+    "howTo": "How to use it?",
+    "howToText": "Click the record button and pronounce the Kazakh word shown on the screen. Our speech recognition technology will analyze your pronunciation and give you feedback on how to improve. Practice regularly to master Kazakh phonetics and sound more like a native speaker.",
+    "tipsTitle": "Tips for better results",
+    "tipsText": "Speak clearly at a normal pace, not too fast or too slow. Position yourself in a quiet environment with minimal background noise. Hold your device approximately 20 cm from your mouth. Practice the most challenging sounds in Kazakh like қ, ғ, and ң separately before incorporating them into words.",
+    "pronounce": "Pronounce this word",
+    "startRecording": "Start Recording",
+    "stopRecording": "Stop Recording",
+    "nextWord": "Next Word",
+    "record": "Record",
+    "stop": "Stop",
+    "tryAgainBtn": "Try Again",
+    "nextWordBtn": "Next Word",
+    "greatJob": "Great job!",
+    "badJob": "Try again!",
+    "expected": "Expected:",
+    "heard": "Heard:",
+    "errorLoadingWord": "Error loading word.",
+    "errorFetchingWord": "Error fetching word.",
+    "browserNotSupported": "Audio recording is not supported in this browser.",
+    "microphoneError": "Error accessing microphone. Please check your permissions.",
+    "errorProcessingAudio": "Error processing your pronunciation. Please try again.",
+    "genericError": "An error occurred. Please try again.",
+    "notRecognized": "Not recognized",
+    "tryAgain": "Try again!",
+    "correct": "Excellent pronunciation! You sound like a native speaker.",
+    "incorrect": "Your pronunciation needs some work. Try again!",
+    "subtitle": "Pronounce this word",
+    "title": "Pronunciation Practice",
+    "perfect": "Perfect! Your pronunciation matches exactly what was expected.",
+    "excellent": "Excellent! Your pronunciation is very close to native.",
+    "good": "Good job! Your pronunciation is recognizable but could use some refinement.",
+    "fair": "Almost there! Try to focus on the correct sounds. We heard '{{heard}}' instead of '{{expected}}'.",
+    "unrecognized": "We couldn't recognize your pronunciation of '{{expected}}'. Try speaking more clearly."
+  },
+  "team": {
+    "1st": {
+      "name": "Albina Zekenova"
+    },
+    "2nd": {
+      "name": "Jamilya Tankimanova"
+    }
+  },
+  "messages": {
+    "profileUpdated": "Profile successfully updated",
+    "passwordUpdated": "Password successfully updated"
+  },
+  "errors": {
+    "updateProfile": "Error updating profile",
+    "updatePassword": "Error changing password"
+  },
+  "noData": "No data"
+}

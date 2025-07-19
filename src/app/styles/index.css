@@ -23,3 +23,7 @@
     --color-yellow: #f6b40a;
     --color-red: #e02200;
 }
+
+body {
+    font-family: var(--second-family), sans-serif;
+}

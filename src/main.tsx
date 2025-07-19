@@ -1,8 +1,9 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { router } from '@app/App'
 import { RouterProvider } from 'react-router-dom'
 import '@/app/styles/index.css'
-import { router } from '@app/App'
+import '@/app/providers/i18n'
 
 const container = document.getElementById('root')
 

@@ -6,9 +6,9 @@ const WhySection = () => {
   const { t } = useTranslation()
 
   return (
-    <section className="w-full max-w-full mx-auto my-0 px-4 sm:px-6 py-8 md:py-16 bg-white overflow-hidden">
+    <section className="w-full max-w-full mx-auto my-0 px-4 sm:px-6 bg-white overflow-hidden">
       <div className="max-w-[1200px] mx-auto bg-white">
-        <div className="flex flex-col md:flex-row-reverse items-center gap-6 lg:gap-8 py-8 md:py-12">
+        <div className="flex flex-col md:flex-row-reverse items-center gap-6 lg:gap-8">
           <div className="flex-1 w-full md:w-auto text-center md:text-right">
             <h2 className="text-3xl sm:text-4xl md:text-[2.5rem] leading-[1.2] mb-4 md:mb-6">
               <span className="text-primary">{t('home.why')}</span>

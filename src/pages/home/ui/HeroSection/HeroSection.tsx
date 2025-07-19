@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
+import BaseButton from '@shared/ui/UI/Base/BaseButton.tsx'
 
 const HeroSection = () => {
   const { t } = useTranslation()
@@ -15,9 +16,10 @@ const HeroSection = () => {
             </h1>
             <Link
               to="/learn"
-              className="inline-block px-6 py-3 bg-transparent text-darkBlue border border-darkBlue rounded-[4px] no-underline font-medium transition-all duration-300 ease-in-out font-comfortaa hover:bg-darkBlue hover:text-white"
             >
-              {t('home.startLearning')}
+              <BaseButton variant="secondary">
+                {t('home.startLearning')}
+              </BaseButton>
             </Link>
           </div>
           <div className="flex-1 w-full md:w-auto order-1 md:order-2 flex justify-center items-center">

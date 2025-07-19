@@ -1,5 +1,6 @@
 import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
+import BaseButton from '@shared/ui/UI/Base/BaseButton.tsx'
 
 const WhySection = () => {
   const { t } = useTranslation()
@@ -19,9 +20,10 @@ const WhySection = () => {
             </p>
             <Link
               to="/about"
-              className="inline-block px-6 py-3 bg-transparent text-primary border border-primary rounded-[4px] no-underline font-medium transition-all duration-300 ease-in-out font-comfortaa hover:bg-primary hover:text-white"
             >
-              {t('home.learnMore')}
+              <BaseButton variant="primary">
+                {t('home.learnMore')}
+              </BaseButton>
             </Link>
           </div>
           <div className="flex-1 w-full md:w-auto flex justify-center">

@@ -1,11 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Jura:wght@300;400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 @import "tailwindcss";
 
 :root {
-    --font-family: "Inter", sans-serif;
-    --second-family: "Jura", sans-serif;
-    --third-family: "Poppins", sans-serif;
-    --font3: "Exo", sans-serif;
-    --font4: "Jost", sans-serif;
+    --font-family: "Jura", sans-serif;
+    --second-family: "Poppins", sans-serif;
+    --third-family: "Inter", sans-serif;
+    --font3: "Jost", sans-serif;
+    --font4: "Lexend", sans-serif;
 }
 
 @theme {
@@ -22,8 +26,15 @@
     --color-green: #55be24;
     --color-yellow: #f6b40a;
     --color-red: #e02200;
+
+    --font-jura: "Jura", sans-serif;
+    --font-poppins: "Poppins", sans-serif;
+    --font-inter: "Inter", sans-serif;
+    --font-json: "Jost", sans-serif;
+    --font-lexend: "Lexend", sans-serif;
 }
 
 body {
-    font-family: var(--second-family), sans-serif;
+    font-family: var(--font-family), sans-serif;
+    font-size: 16px;
 }

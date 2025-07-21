@@ -20,7 +20,7 @@ const Footer = () => {
   ]
 
   return (
-    <footer className="bg-darkBlue pt-20 pb-5 mt-25">
+    <footer className="bg-darkBlue pt-20 pb-5 mt-25 font-jura">
       <div className="px-2 max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
           <section className="footer__column">

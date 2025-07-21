@@ -11,7 +11,7 @@ const HeroSection = () => {
         <div
           className="flex flex-col md:flex-row items-center gap-6 lg:gap-8 py-8 md:py-0 min-h-[50vh] md:min-h-[60vh]">
           <div className="flex-1 w-full md:w-auto order-2 md:order-1 text-center md:text-left">
-            <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-[4rem] text-darkBlue leading-[1.2] mb-6 font-bold">
+            <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-[4rem] text-darkBlue leading-[1.2] mb-6">
               {t('home.headline')}
             </h1>
             <Link

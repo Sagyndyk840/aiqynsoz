@@ -7,9 +7,10 @@
 :root {
     --font-family: "Jura", sans-serif;
     --second-family: "Poppins", sans-serif;
-    --third-family: "Inter", sans-serif;
-    --font3: "Jost", sans-serif;
-    --font4: "Lexend", sans-serif;
+    --inter-family: "Inter", sans-serif;
+    --jost-family: "Jost", sans-serif;
+    --lexend-family: "Lexend", sans-serif;
+    --comfortaa-family: "Lexend", sans-serif;
 }
 
 @theme {
@@ -32,9 +33,10 @@
     --font-inter: "Inter", sans-serif;
     --font-json: "Jost", sans-serif;
     --font-lexend: "Lexend", sans-serif;
+    --font-comfortaa: "Comfortaa", sans-serif;
 }
 
 body {
-    font-family: var(--font-family), sans-serif;
+    font-family: var(--comfortaa-family), sans-serif;
     font-size: 16px;
 }
